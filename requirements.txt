@@ -1,9 +1,9 @@
+streamlit
+pandas
 sqlalchemy
 alembic
 python-multipart
 email-validator
 bcrypt
 python-dotenv
-streamlit>=1.30.0
-pandas>=2.2.0
 
